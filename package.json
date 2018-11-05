@@ -1,7 +1,7 @@
 {
-  "name": "deepstream.io-client-js",
+  "name": "collab-fork-deepstream.io-client-js",
   "version": "2.3.0",
-  "description": "the javascript client for deepstream.io",
+  "description": "Upgrades dependencies in the original client",
   "main": "dist/lib/client.js",
   "types": "src/client.d.ts",
   "directories": {
@@ -23,11 +23,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/deepstreamIO/deepstream.io-client-js.git"
+    "url": "https://github.com/rlancer/deepstream.io-client-js"
   },
   "optionalDependencies": {
-    "utf-8-validate": "^4.0.2",
-    "bufferutil": "^3.0.5"
+    "utf-8-validate": "^5.0.1",
+    "bufferutil": "^4.0.0"
   },
   "dependencies": {
     "component-emitter2": "^1.3.5",
@@ -62,7 +62,7 @@
   "author": "deepstreamHub GmbH",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/deepstreamIO/deepstream.io-client-js/issues"
+    "url": "https://github.com/rlancer/deepstream.io-client-js/issues"
   },
   "homepage": "http://deepstream.io",
   "eslintConfig": {
