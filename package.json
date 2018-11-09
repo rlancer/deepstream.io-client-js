@@ -1,6 +1,6 @@
 {
   "name": "collab-fork-deepstream.io-client-js",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "Upgrades dependencies in the original client",
   "main": "dist/lib/client.js",
   "types": "src/client.d.ts",
