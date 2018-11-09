@@ -320,7 +320,7 @@ declare namespace deepstreamIO {
                 (url: string, options?: Options): deepstreamQuarantine;
         }
 }
-declare module 'deepstream.io-client-js' {
+declare module 'collab-fork-deepstream.io-client-js' {
         var deepstream: deepstreamIO.deepstreamStatic;
         export = deepstream;
 }
